@@ -171,7 +171,7 @@ header > h3 {
     border-radius: 50px;
     width: 150px;
     height: 40px;
-    border: 2px transparent #1E69EB;
+    border: 2px solid rgba(30, 105, 235, 0%);
     cursor: pointer;
 }
 
