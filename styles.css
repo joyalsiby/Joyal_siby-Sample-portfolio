@@ -59,7 +59,8 @@ nav > a {
     text-decoration: none;
 }
 
-header > img {
+header > svg {
+    width: fit-content;
     margin-top: auto;
     margin-bottom: auto;
     padding-left: 8px;
@@ -234,6 +235,7 @@ header > h3 {
 }
 
 #contact-form .cta {
+    cursor: pointer;
     color: white;
     background-color: #1e69eb;
 }
